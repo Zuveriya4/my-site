@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 5.625em;
+  color: slateblue;
+  margin: 0 auto 0 auto;
+  font-family: 'IM Fell English SC', serif;
+}
+h2 {
+  color: slateblue;
+
+  font-family: 'IM Fell English SC', serif;
+}
+h3{
+  color: slateblue;
+    font-family: 'IM Fell English SC', serif;
+}
+
+p {
+  color: slateblue;
+  font-family: 'Merriweather', serif;
+}
+
+.top {
+  background-color: #beebe9;
+  position: relative;
+  padding-top: 100px;
+}
+.middle{
+  position: relative;
+
+}
+.bottom{
+    position: relative;
+
+
+}
+
+.cc {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.c {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.z{
+    position: relative;
+}
+.m {
+  width: 500px;
+  height: 300px;
+}
